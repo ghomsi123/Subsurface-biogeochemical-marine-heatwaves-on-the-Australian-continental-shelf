@@ -1,5 +1,7 @@
 # Subsurface-biogeochemical-marine-heatwaves-on-the-Australian-continental-shelf
 
+[![DOI](https://zenodo.org/badge/1246554592.svg)](https://doi.org/10.5281/zenodo.20344424)
+
 This repository contains processed glider datasets and MATLAB scripts for analyzing subsurface marine heatwaves along the Australian continental shelf. The data are organized by region:
 
 1. Queensland (QLD) – northeastern Australia  
